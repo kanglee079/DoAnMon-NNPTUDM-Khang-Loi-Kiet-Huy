@@ -1,3 +1,5 @@
+## Nhánh Back-End
+
 # Dự Án Nhóm Phát Triển Phần Mềm
 
 ## Giới Thiệu
@@ -14,7 +16,7 @@ Dự án này bao gồm phần back-end được xây dựng bằng Node.js và 
 
 1. Clone repo và chuyển đến thư mục back-end:
     ```bash
-    git clone <url-to-repository>
+    git clone https://github.com/kanglee079/DoAnMon-NNPTUDM-Khang-Loi-Kiet-Huy
     cd path/to/back-end
     ```
 
